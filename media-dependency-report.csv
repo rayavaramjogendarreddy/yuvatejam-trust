@@ -1,0 +1,292 @@
+filename,extension,file_size_bytes,status_category,target_bucket,target_storage_path,reference_locations,notes
+1-1.jpg,.jpg,161609,ACTIVELY REFERENCED,yuvatejam-media,images/1-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+1-1024x1024.jpg,.jpg,266677,ACTIVELY REFERENCED,yuvatejam-media,images/1-1024x1024.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+1-2.jpg,.jpg,196679,ACTIVELY REFERENCED,yuvatejam-media,images/1-2.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+1-768x768.jpg,.jpg,157008,ACTIVELY REFERENCED,yuvatejam-media,images/1-768x768.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+1.jpeg,.jpeg,76704,ACTIVELY REFERENCED,yuvatejam-media,images/1.jpeg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+1.jpg,.jpg,60297,ACTIVELY REFERENCED,yuvatejam-media,images/1.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+10-1.jpg,.jpg,123763,ACTIVELY REFERENCED,yuvatejam-media,images/10-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+10.jpg,.jpg,97240,ACTIVELY REFERENCED,yuvatejam-media,images/10.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+11-1.jpg,.jpg,104620,ACTIVELY REFERENCED,yuvatejam-media,images/11-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+11.jpg,.jpg,110228,ACTIVELY REFERENCED,yuvatejam-media,images/11.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+12-1.jpg,.jpg,71327,ACTIVELY REFERENCED,yuvatejam-media,images/12-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+12.jpg,.jpg,87703,ACTIVELY REFERENCED,yuvatejam-media,images/12.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+13-1.jpg,.jpg,64829,ACTIVELY REFERENCED,yuvatejam-media,images/13-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+13-2.jpg,.jpg,231887,ACTIVELY REFERENCED,yuvatejam-media,images/13-2.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+13.jpg,.jpg,101073,ACTIVELY REFERENCED,yuvatejam-media,images/13.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+14-2.jpg,.jpg,53553,ACTIVELY REFERENCED,yuvatejam-media,images/14-2.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+14-3.jpg,.jpg,238026,ACTIVELY REFERENCED,yuvatejam-media,images/14-3.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+14.jpg,.jpg,108619,ACTIVELY REFERENCED,yuvatejam-media,images/14.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+15.jpg,.jpg,250145,ACTIVELY REFERENCED,yuvatejam-media,images/15.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+16-1.jpg,.jpg,214375,ACTIVELY REFERENCED,yuvatejam-media,images/16-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+16.jpg,.jpg,84270,ACTIVELY REFERENCED,yuvatejam-media,images/16.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+17-1.jpg,.jpg,59607,ACTIVELY REFERENCED,yuvatejam-media,images/17-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+17.jpg,.jpg,63479,ACTIVELY REFERENCED,yuvatejam-media,images/17.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+18-1.jpg,.jpg,71748,ACTIVELY REFERENCED,yuvatejam-media,images/18-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+18.jpg,.jpg,65781,ACTIVELY REFERENCED,yuvatejam-media,images/18.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+19-e1730004655733.jpg,.jpg,64143,ACTIVELY REFERENCED,yuvatejam-media,images/19-e1730004655733.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+19.jpg,.jpg,73781,ACTIVELY REFERENCED,yuvatejam-media,images/19.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+2-1.jpg,.jpg,63884,ACTIVELY REFERENCED,yuvatejam-media,images/2-1.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+2-2.jpg,.jpg,208275,ACTIVELY REFERENCED,yuvatejam-media,images/2-2.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+2-e1730003683288.jpg,.jpg,94095,ACTIVELY REFERENCED,yuvatejam-media,images/2-e1730003683288.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+20.jpg,.jpg,87218,ACTIVELY REFERENCED,yuvatejam-media,images/20.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+21.jpg,.jpg,138938,ACTIVELY REFERENCED,yuvatejam-media,images/21.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+22.jpg,.jpg,209745,ACTIVELY REFERENCED,yuvatejam-media,images/22.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+23.jpg,.jpg,86870,ACTIVELY REFERENCED,yuvatejam-media,images/23.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+24.jpg,.jpg,124281,ACTIVELY REFERENCED,yuvatejam-media,images/24.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+3-1.jpg,.jpg,177863,ACTIVELY REFERENCED,yuvatejam-media,images/3-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+3-1024x767.jpg,.jpg,146322,ACTIVELY REFERENCED,yuvatejam-media,images/3-1024x767.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+3.jpg,.jpg,217948,ACTIVELY REFERENCED,yuvatejam-media,images/3.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+4-1.jpg,.jpg,54487,ACTIVELY REFERENCED,yuvatejam-media,images/4-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+4-2.jpg,.jpg,209913,ACTIVELY REFERENCED,yuvatejam-media,images/4-2.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+4.jpg,.jpg,100129,ACTIVELY REFERENCED,yuvatejam-media,images/4.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+5-1.jpg,.jpg,97322,ACTIVELY REFERENCED,yuvatejam-media,images/5-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+5.jpg,.jpg,50229,ACTIVELY REFERENCED,yuvatejam-media,images/5.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+6-1.jpg,.jpg,114755,ACTIVELY REFERENCED,yuvatejam-media,images/6-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+6-2.jpg,.jpg,224641,ACTIVELY REFERENCED,yuvatejam-media,images/6-2.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+6.jpg,.jpg,113432,ACTIVELY REFERENCED,yuvatejam-media,images/6.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+7-1.jpg,.jpg,101906,ACTIVELY REFERENCED,yuvatejam-media,images/7-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+7.jpg,.jpg,110228,ACTIVELY REFERENCED,yuvatejam-media,images/7.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+8-1.jpg,.jpg,44922,ACTIVELY REFERENCED,yuvatejam-media,images/8-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+8.jpg,.jpg,85667,ACTIVELY REFERENCED,yuvatejam-media,images/8.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+9-1.jpg,.jpg,118642,ACTIVELY REFERENCED,yuvatejam-media,images/9-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+9.jpg,.jpg,59728,ACTIVELY REFERENCED,yuvatejam-media,images/9.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+AbstractClientDiscoveryStrategy.php,.php,2927,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+AiClient.php,.php,17360,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+AiClientExceptionInterface.php,.php,343,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+Anjani-mam--150x150.jpg,.jpg,4225,ACTIVELY REFERENCED,yuvatejam-media,images/Anjani-mam--150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Client.php,.php,4391,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+ClientErrorResponseException.php,.php,176,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+ClientException.php,.php,199,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+ClientExceptionInterface.php,.php,202,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+ClientInterface.php,.php,9921,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+ClientWithOptionsInterface.php,.php,1025,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+D.jpg,.jpg,87226,ACTIVELY REFERENCED,yuvatejam-media,images/D.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Dr.SHAIK-karimulla-Founder-and-Chairman-1014x1024.jpg,.jpg,131167,UNCERTAIN / VARIANT,yuvatejam-media,images/Dr.SHAIK-karimulla-Founder-and-Chairman-1014x1024.jpg,app\page.tsx,Resolution variant of base image 'Dr.SHAIK-karimulla-Founder-and-Chairman.jpg' which is referenced in source
+Dr.SHAIK-karimulla-Founder-and-Chairman-150x150.jpg,.jpg,5157,UNCERTAIN / VARIANT,yuvatejam-media,images/Dr.SHAIK-karimulla-Founder-and-Chairman-150x150.jpg,app\page.tsx,Resolution variant of base image 'Dr.SHAIK-karimulla-Founder-and-Chairman.jpg' which is referenced in source
+Dr.SHAIK-karimulla-Founder-and-Chairman-297x300.jpg,.jpg,16025,UNCERTAIN / VARIANT,yuvatejam-media,images/Dr.SHAIK-karimulla-Founder-and-Chairman-297x300.jpg,app\page.tsx,Resolution variant of base image 'Dr.SHAIK-karimulla-Founder-and-Chairman.jpg' which is referenced in source
+Dr.SHAIK-karimulla-Founder-and-Chairman-768x776.jpg,.jpg,83999,UNCERTAIN / VARIANT,yuvatejam-media,images/Dr.SHAIK-karimulla-Founder-and-Chairman-768x776.jpg,app\page.tsx,Resolution variant of base image 'Dr.SHAIK-karimulla-Founder-and-Chairman.jpg' which is referenced in source
+Dr.SHAIK-karimulla-Founder-and-Chairman.jpg,.jpg,101062,ACTIVELY REFERENCED,yuvatejam-media,images/Dr.SHAIK-karimulla-Founder-and-Chairman.jpg,app\page.tsx,Referenced in 1 source file(s)
+E.jpg,.jpg,84084,ACTIVELY REFERENCED,yuvatejam-media,images/E.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Education-Schoogalleryl.png,.png,160143,ACTIVELY REFERENCED,yuvatejam-media,images/Education-Schoogalleryl.png,lib\data\pages-data.ts,Referenced in 1 source file(s)
+F.jpg,.jpg,53209,ACTIVELY REFERENCED,yuvatejam-media,images/F.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+FileClient.php,.php,2267,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+G.jpg,.jpg,70242,ACTIVELY REFERENCED,yuvatejam-media,images/G.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+H.jpg,.jpg,54309,ACTIVELY REFERENCED,yuvatejam-media,images/H.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20220416-WA0086-150x150.jpg,.jpg,8475,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20220416-WA0086-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20250204-WA0005-r10528a94ed9pb7cs4d9m4l1mu028cfx032867z1y8.jpg,.jpg,87386,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20250204-WA0005-r10528a94ed9pb7cs4d9m4l1mu028cfx032867z1y8.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20250204-WA0006-r1051f5ca671kxfapd8lx9gmume92ebkrukilr1vs0.jpg,.jpg,168465,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20250204-WA0006-r1051f5ca671kxfapd8lx9gmume92ebkrukilr1vs0.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20250204-WA0100.jpg,.jpg,236802,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20250204-WA0100.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20250204-WA0101.jpg,.jpg,209455,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20250204-WA0101.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20250204-WA0102.jpg,.jpg,226617,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20250204-WA0102.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG-20250206-WA0013-300x169.jpg,.jpg,12007,ACTIVELY REFERENCED,yuvatejam-media,images/IMG-20250206-WA0013-300x169.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220416105337-150x150.jpg,.jpg,8402,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220416105337-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220416105414-150x150.jpg,.jpg,8376,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220416105414-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220416105427-150x150.jpg,.jpg,8309,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220416105427-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220416105431-150x150.jpg,.jpg,8481,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220416105431-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220416105455-150x150.jpg,.jpg,8277,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220416105455-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220416105634-150x150.jpg,.jpg,6673,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220416105634-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220726120415-150x150.jpg,.jpg,9345,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220726120415-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220726120436-150x150.jpg,.jpg,9596,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220726120436-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+IMG20220726120533_01-150x150.jpg,.jpg,8733,ACTIVELY REFERENCED,yuvatejam-media,images/IMG20220726120533_01-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+InconsistentClientTransferException.php,.php,918,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+Mahesh-150x150.jpg,.jpg,7652,ACTIVELY REFERENCED,yuvatejam-media,images/Mahesh-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Newteam-150x150.jpg,.jpg,23619,UNCERTAIN / VARIANT,yuvatejam-media,images/Newteam-150x150.jpg,lib\data\pages-data.ts,Resolution variant of base image 'Newteam.jpg' which is referenced in source
+Newteam-288x300.jpg,.jpg,38911,ACTIVELY REFERENCED,yuvatejam-media,images/Newteam-288x300.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Newteam-768x799.jpg,.jpg,111830,ACTIVELY REFERENCED,yuvatejam-media,images/Newteam-768x799.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Newteam-985x1024.jpg,.jpg,150055,ACTIVELY REFERENCED,yuvatejam-media,images/Newteam-985x1024.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Newteam.jpg,.jpg,147482,ACTIVELY REFERENCED,yuvatejam-media,images/Newteam.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Profile-768x866.jpg,.jpg,110166,ACTIVELY REFERENCED,yuvatejam-media,images/Profile-768x866.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Profile1-768x1102.jpg,.jpg,145650,ACTIVELY REFERENCED,yuvatejam-media,images/Profile1-768x1102.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Profile2-768x994.jpg,.jpg,130721,ACTIVELY REFERENCED,yuvatejam-media,images/Profile2-768x994.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Psr18Client.php,.php,4447,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+Psr18ClientDiscovery.php,.php,1038,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+R-e1753279067440-150x150.jpg,.jpg,5716,ACTIVELY REFERENCED,yuvatejam-media,images/R-e1753279067440-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+S.Abdul-BaseedTreasurer-1014x1024.jpg,.jpg,71759,ACTIVELY REFERENCED,yuvatejam-media,images/S.Abdul-BaseedTreasurer-1014x1024.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+StaticClient.php,.php,4647,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+Trust-Mai-Logo1-150x150.jpg,.jpg,8314,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/Trust-Mai-Logo1-150x150.jpg,None,Unreferenced image file in public/images
+Trust-Mai-Logo1-300x157.jpg,.jpg,12564,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/Trust-Mai-Logo1-300x157.jpg,None,Unreferenced image file in public/images
+Trust-Mai-Logo1.jpg,.jpg,30235,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/Trust-Mai-Logo1.jpg,None,Unreferenced image file in public/images
+Uma-akka-150x150.jpg,.jpg,7123,ACTIVELY REFERENCED,yuvatejam-media,images/Uma-akka-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+Untitled-960-x-1440-px-150x150.jpg,.jpg,8896,ACTIVELY REFERENCED,yuvatejam-media,images/Untitled-960-x-1440-px-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1-150x150.jpg,.jpg,4614,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1-225x300.jpg,.jpg,12085,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1-225x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1-768x1024.jpg,.jpg,114767,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1-768x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1.jpg,.jpg,145218,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-1.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-150x150.jpg,.jpg,4614,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-225x300.jpg,.jpg,12085,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-225x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-768x1024.jpg,.jpg,114767,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-768x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-150x150.jpg,.jpg,4694,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-218x300.jpg,.jpg,11806,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-218x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-743x1024.jpg,.jpg,110497,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-743x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-768x1059.jpg,.jpg,117340,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353-768x1059.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353.jpg,.jpg,150847,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7-e1730005890353.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7.jpg,.jpg,145218,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.39.08_110f16d7.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-150x150.jpg,.jpg,4151,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-225x300.jpg,.jpg,9354,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-225x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-768x1024.jpg,.jpg,73796,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-768x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768-136x300.jpg,.jpg,8065,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768-136x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768-150x150.jpg,.jpg,5098,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768-463x1024.jpg,.jpg,62463,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768-463x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768.jpg,.jpg,99688,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5-e1730007449768.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5.jpg,.jpg,119456,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-10-27-at-10.56.28_a692fff5.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-11-04-at-20.20.08_d3de00f7-150x150.jpg,.jpg,4557,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-11-04-at-20.20.08_d3de00f7-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-11-04-at-20.20.08_d3de00f7-212x300.jpg,.jpg,9871,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-11-04-at-20.20.08_d3de00f7-212x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2024-11-04-at-20.20.08_d3de00f7.jpg,.jpg,40090,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2024-11-04-at-20.20.08_d3de00f7.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-140x300.jpg,.jpg,9658,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-140x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-150x150.jpg,.jpg,5666,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-477x1024.jpg,.jpg,57085,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-477x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-716x1536.jpg,.jpg,106748,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-716x1536.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-768x1647.jpg,.jpg,118543,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-768x1647.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-955x2048.jpg,.jpg,165571,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-955x2048.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-scaled.jpg,.jpg,233112,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6-scaled.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6.jpg,.jpg,266606,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.24.11_2842bee6.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-1024x1024.jpg,.jpg,98432,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-1024x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-150x150.jpg,.jpg,5031,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-300x300.jpg,.jpg,14288,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-300x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-768x768.jpg,.jpg,62320,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7-768x768.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7.jpg,.jpg,214403,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-19.25.19_1c6ebcf7.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-150x150.jpg,.jpg,7694,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-240x300.jpg,.jpg,20048,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-240x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-768x959.jpg,.jpg,112428,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-768x959.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-820x1024.jpg,.jpg,123078,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-820x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868-150x150.jpg,.jpg,8235,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868-300x223.jpg,.jpg,19049,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868-300x223.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868-768x572.jpg,.jpg,72318,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868-768x572.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868.jpg,.jpg,108374,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1-e1738688098868.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1.jpg,.jpg,107426,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-22.12.52_ff8929a1.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-1024x1024.jpg,.jpg,101546,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-1024x1024.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-150x150.jpg,.jpg,6839,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-300x300.jpg,.jpg,18136,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-300x300.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-768x768.jpg,.jpg,67702,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-23.04.04_139f9698-768x768.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-04-at-23.04.04_139f9698.jpg,.jpg,119661,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-04-at-23.04.04_139f9698.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-1024x480.jpg,.jpg,74901,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-1024x480.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-150x150.jpg,.jpg,7228,UNCERTAIN / VARIANT,yuvatejam-media,images/WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-150x150.jpg,lib\data\pages-data.ts,Resolution variant of base image 'WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d.jpg' which is referenced in source
+WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-300x141.jpg,.jpg,11815,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-300x141.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-768x360.jpg,.jpg,49543,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d-768x360.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d.jpg,.jpg,65968,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-02-06-at-18.19.54_d74d447d.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-150x150.jpg,.jpg,5713,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-214x300.jpg,.jpg,15470,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-214x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-731x1024.jpg,.jpg,101810,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-731x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-768x1076.jpg,.jpg,112165,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c-768x1076.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c.jpg,.jpg,231885,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-03-04-at-20.37.18_8f21276c.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-134x300.jpg,.jpg,11661,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-134x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-150x150.jpg,.jpg,6807,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-459x1024.jpg,.jpg,108284,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-459x1024.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1753240313815-150x150.jpg,.jpg,8027,ACTIVELY REFERENCED,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1753240313815-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1753240313815-253x300.jpg,.jpg,23512,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1753240313815-253x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1753240313815.jpg,.jpg,92853,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1753240313815.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1773154428436-150x150.jpg,.jpg,8018,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1773154428436-150x150.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1773154428436-298x300.jpg,.jpg,29082,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1773154428436-298x300.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1773154428436.jpg,.jpg,90895,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c-e1773154428436.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c.jpg,.jpg,131211,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2025-07-15-at-17.59.13_b833f73c.jpg,None,Unreferenced image file in public/images
+WhatsApp-Image-2026-02-27-at-22.39.46-150x150.jpeg,.jpeg,6876,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2026-02-27-at-22.39.46-150x150.jpeg,None,Unreferenced image file in public/images
+WhatsApp-Image-2026-02-27-at-22.39.46-300x300.jpeg,.jpeg,23672,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2026-02-27-at-22.39.46-300x300.jpeg,None,Unreferenced image file in public/images
+WhatsApp-Image-2026-02-27-at-22.39.46-768x768.jpeg,.jpeg,108328,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2026-02-27-at-22.39.46-768x768.jpeg,None,Unreferenced image file in public/images
+WhatsApp-Image-2026-02-27-at-22.39.46.jpeg,.jpeg,145368,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/WhatsApp-Image-2026-02-27-at-22.39.46.jpeg,None,Unreferenced image file in public/images
+WhatsApp-Video-2025-02-04-at-14.45.07_163cbfb9.mp4,.mp4,60095504,VIDEO,yuvatejam-videos,videos/WhatsApp-Video-2025-02-04-at-14.45.07_163cbfb9.mp4,N/A,Large MP4 video asset (60 MB)
+a.jpg,.jpg,76344,ACTIVELY REFERENCED,yuvatejam-media,images/a.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+about-1.jpg,.jpg,121682,ACTIVELY REFERENCED,yuvatejam-media,images/about-1.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+about-team-BIYjWj57.jpg,.jpg,220146,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/about-team-BIYjWj57.jpg,None,Unreferenced image file in public/images
+about-team.jpg,.jpg,220146,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/about-team.jpg,None,Unreferenced image file in public/images
+ai-client.php,.php,2549,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+aioseo-client-logo-1-tH1SYrXg.svg,.svg,28874,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-1-tH1SYrXg.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-1.svg,.svg,28874,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-1.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-10-Bl7JSYeC.svg,.svg,77570,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-10-Bl7JSYeC.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-10.svg,.svg,77570,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-10.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-11-DVMVeIgg.svg,.svg,9903,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-11-DVMVeIgg.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-11.svg,.svg,9903,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-11.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-12-BEkB8B5R.svg,.svg,63178,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-12-BEkB8B5R.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-12.svg,.svg,63178,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-12.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-2-DffWHG7x.svg,.svg,9770,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-2-DffWHG7x.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-2.svg,.svg,9770,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-2.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-3-CJQ3YNjp.svg,.svg,13497,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-3-CJQ3YNjp.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-3.svg,.svg,13497,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-3.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-4-rmUdiF8S.svg,.svg,23012,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-4-rmUdiF8S.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-4.svg,.svg,23012,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-4.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-5-BFbbcR6D.svg,.svg,6349,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-5-BFbbcR6D.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-5.svg,.svg,6349,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-5.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-6-B1Xil_91.svg,.svg,27527,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-6-B1Xil_91.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-6.svg,.svg,27527,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-6.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-7-zu-ySb0j.svg,.svg,10408,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-7-zu-ySb0j.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-7.svg,.svg,10408,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-7.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-8-MyDSqUcV.svg,.svg,8965,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-8-MyDSqUcV.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-8.svg,.svg,8965,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-8.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-9-Cs1wjsF9.svg,.svg,38859,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-9-Cs1wjsF9.svg,None,Unreferenced image file in public/images
+aioseo-client-logo-9.svg,.svg,38859,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/aioseo-client-logo-9.svg,None,Unreferenced image file in public/images
+b-150x150.jpg,.jpg,21400,ACTIVELY REFERENCED,yuvatejam-media,images/b-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+b.jpg,.jpg,70428,ACTIVELY REFERENCED,yuvatejam-media,images/b.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+banner-1024x515.jpg,.jpg,89234,ACTIVELY REFERENCED,yuvatejam-media,images/banner-1024x515.jpg,app\page.tsx; lib\data\pages-data.ts,Referenced in 2 source file(s)
+banner-150x150.jpg,.jpg,13994,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/banner-150x150.jpg,None,Unreferenced image file in public/images
+banner-300x151.jpg,.jpg,17794,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/banner-300x151.jpg,None,Unreferenced image file in public/images
+banner-768x386.jpg,.jpg,59961,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/banner-768x386.jpg,None,Unreferenced image file in public/images
+banner.jpg,.jpg,141554,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/banner.jpg,None,Unreferenced image file in public/images
+bobby-rodriguezz-631332-unsp5lash.jpg,.jpg,9273,ACTIVELY REFERENCED,yuvatejam-media,images/bobby-rodriguezz-631332-unsp5lash.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+c-150x150.jpg,.jpg,1768,ACTIVELY REFERENCED,yuvatejam-media,images/c-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+c.jpg,.jpg,68834,ACTIVELY REFERENCED,yuvatejam-media,images/c.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+chairman-signature-150x116.png,.png,12345,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/chairman-signature-150x116.png,None,Unreferenced image file in public/images
+chairman-signature-300x87.png,.png,17636,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/chairman-signature-300x87.png,None,Unreferenced image file in public/images
+chairman-signature.png,.png,29120,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/chairman-signature.png,None,Unreferenced image file in public/images
+class-IXR-client.php,.php,4749,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-IXR-clientmulticall.php,.php,1263,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-ai-client-ability-function-resolver.php,.php,6309,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-ai-client-cache.php,.php,6802,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-ai-client-discovery-strategy.php,.php,1167,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-ai-client-event-dispatcher.php,.php,2555,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-ai-client-http-client.php,.php,6768,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-ai-client-prompt-builder.php,.php,19824,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+class-wp-http-ixr-client.php,.php,3516,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client-logo-handler.php,.php,803,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client-logo.css,.css,5847,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client-logo.js,.js,585,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client-logo.php,.php,54214,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client.class.php,.php,2539,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client.js,.js,539,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+client_2_black.png,.png,1623,ACTIVELY REFERENCED,yuvatejam-media,images/client_2_black.png,lib\data\pages-data.ts,Referenced in 1 source file(s)
+cropped-logo-1-150x150.png,.png,27278,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1-150x150.png,None,Unreferenced image file in public/images
+cropped-logo-1-180x180.png,.png,36705,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1-180x180.png,None,Unreferenced image file in public/images
+cropped-logo-1-192x192.png,.png,40635,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1-192x192.png,None,Unreferenced image file in public/images
+cropped-logo-1-270x270.png,.png,69855,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1-270x270.png,None,Unreferenced image file in public/images
+cropped-logo-1-300x300.png,.png,82578,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1-300x300.png,None,Unreferenced image file in public/images
+cropped-logo-1-32x32.png,.png,2376,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1-32x32.png,None,Unreferenced image file in public/images
+cropped-logo-1.png,.png,186239,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-1.png,None,Unreferenced image file in public/images
+cropped-logo-133x122.png,.png,6870,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-133x122.png,None,Unreferenced image file in public/images
+cropped-logo-150x150.png,.png,9232,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-150x150.png,None,Unreferenced image file in public/images
+cropped-logo-221x203.png,.png,50380,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo-221x203.png,None,Unreferenced image file in public/images
+cropped-logo.png,.png,60517,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/cropped-logo.png,None,Unreferenced image file in public/images
+d-150x150.jpg,.jpg,3763,ACTIVELY REFERENCED,yuvatejam-media,images/d-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+e-150x150.jpg,.jpg,2816,ACTIVELY REFERENCED,yuvatejam-media,images/e-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+f-150x150.jpg,.jpg,2331,ACTIVELY REFERENCED,yuvatejam-media,images/f-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+f-300x300.jpg,.jpg,5478,ACTIVELY REFERENCED,yuvatejam-media,images/f-300x300.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+http-client.asset.php,.php,210,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+http-client.js,.js,172928,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+http-client.min.js,.js,43226,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+http-client.min.js.LICENSE.txt,.txt,72,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+http-client.strings.js,.js,0,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+icon-whatsapp.svg,.svg,604,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/icon-whatsapp.svg,None,Unreferenced image file in public/images
+jogendar1-150x150.jpg,.jpg,5973,ACTIVELY REFERENCED,yuvatejam-media,images/jogendar1-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+our-team.jpeg,.jpeg,323552,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/our-team.jpeg,None,Unreferenced image file in public/images
+placeholder.png,.png,6146,ACTIVELY REFERENCED,yuvatejam-media,images/placeholder.png,lib\data\pages-data.ts,Referenced in 1 source file(s)
+provider_client_text.php,.php,377,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+rawpixel-557123-unsplash-1024x683.jpg,.jpg,30644,ACTIVELY REFERENCED,yuvatejam-media,images/rawpixel-557123-unsplash-1024x683.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+services-team-photos.php,.php,2934,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+slider-1-1024x853.jpg,.jpg,160580,ACTIVELY REFERENCED,yuvatejam-media,images/slider-1-1024x853.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+slider-3.jpg,.jpg,165144,ACTIVELY REFERENCED,yuvatejam-media,images/slider-3.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+slider.jpg,.jpg,156751,ACTIVELY REFERENCED,yuvatejam-media,images/slider.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+swami-sir-150x150.jpg,.jpg,4616,ACTIVELY REFERENCED,yuvatejam-media,images/swami-sir-150x150.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+team-4-col.php,.php,6796,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+team-handler.php,.php,770,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+team.css,.css,26520,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+team.e5a4152e.jpg,.jpg,460811,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/team.e5a4152e.jpg,None,Unreferenced image file in public/images
+team.js,.js,515,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+team.php,.php,98198,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+teamupdraft_logo.png,.png,1805,NOT FOUND IN CODE REFERENCES,yuvatejam-media,images/teamupdraft_logo.png,None,Unreferenced image file in public/images
+trust-main-logo-1024x515.jpg,.jpg,81715,ACTIVELY REFERENCED,yuvatejam-media,images/trust-main-logo-1024x515.jpg,lib\data\pages-data.ts,Referenced in 1 source file(s)
+trust-main-logo-150x150.jpg,.jpg,7225,UNCERTAIN / VARIANT,yuvatejam-media,images/trust-main-logo-150x150.jpg,components\ui\SafeImage.tsx,Resolution variant of base image 'trust-main-logo.jpg' which is referenced in source
+trust-main-logo-300x151.jpg,.jpg,13924,UNCERTAIN / VARIANT,yuvatejam-media,images/trust-main-logo-300x151.jpg,components\ui\SafeImage.tsx,Resolution variant of base image 'trust-main-logo.jpg' which is referenced in source
+trust-main-logo-768x386.jpg,.jpg,54271,UNCERTAIN / VARIANT,yuvatejam-media,images/trust-main-logo-768x386.jpg,components\ui\SafeImage.tsx,Resolution variant of base image 'trust-main-logo.jpg' which is referenced in source
+trust-main-logo.jpg,.jpg,180642,ACTIVELY REFERENCED,yuvatejam-media,images/trust-main-logo.jpg,components\ui\SafeImage.tsx,Referenced in 1 source file(s)
+unitecreator_client_text.php,.php,13721,LEGACY / SKIP,SKIP,SKIP,N/A,Legacy non-media file (PHP/JS/CSS/TXT script dump)
+yuvatejam-trust-logo-150x150.png,.png,35744,UNCERTAIN / VARIANT,yuvatejam-media,images/yuvatejam-trust-logo-150x150.png,components\layout\Footer.tsx; components\layout\Header.tsx; lib\data\pages-data.ts,Resolution variant of base image 'yuvatejam-trust-logo.png' which is referenced in source
+yuvatejam-trust-logo-300x300.png,.png,98846,UNCERTAIN / VARIANT,yuvatejam-media,images/yuvatejam-trust-logo-300x300.png,components\layout\Footer.tsx; components\layout\Header.tsx; lib\data\pages-data.ts,Resolution variant of base image 'yuvatejam-trust-logo.png' which is referenced in source
+yuvatejam-trust-logo.png,.png,224098,ACTIVELY REFERENCED,yuvatejam-media,images/yuvatejam-trust-logo.png,components\layout\Footer.tsx; components\layout\Header.tsx; lib\data\pages-data.ts,Referenced in 3 source file(s)

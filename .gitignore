@@ -1,0 +1,14 @@
+node_modules/
+.next/
+*.tsbuildinfo
+logs/
+scratch/
+.env
+.env.local
+.env.*.local
+_wordpress_backup/
+.localbackupaddonignore.txt
+local-site.json
+*.mp4
+
+
