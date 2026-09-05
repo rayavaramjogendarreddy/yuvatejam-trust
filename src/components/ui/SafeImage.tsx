@@ -31,7 +31,7 @@ export default function SafeImage({
   };
 
   return (
-    <div className={`relative overflow-hidden ${containerClassName}`}>
+    <div className={`relative overflow-hidden ${fill ? "w-full h-full" : ""} ${containerClassName}`}>
       {imgSrc ? (
         <Image
           {...props}

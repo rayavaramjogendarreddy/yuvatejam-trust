@@ -4,7 +4,6 @@ import Link from "next/link";
 import { siteConfig } from "@/lib/data/site-config";
 import ContactForm from "@/components/forms/ContactForm";
 import SafeImage from "@/components/ui/SafeImage";
-import DonationCard from "@/components/content/DonationCard";
 import FeaturedSplit from "@/components/content/FeaturedSplit";
 import Timeline, { TimelineItem } from "@/components/content/Timeline";
 import { Badge } from "@/components/ui/Badge";
@@ -137,74 +136,61 @@ export default function HomePage() {
         />
         <div className="absolute inset-0 z-0 bg-gradient-to-r from-slate-950 via-slate-900/95 to-brand-navy/90" />
 
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-            {/* Left Narrative */}
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.6 }}
-              className="lg:col-span-7 space-y-6 text-center lg:text-left"
-            >
-              <Badge variant="gold" size="md">
-                <Globe className="w-3.5 h-3.5 text-brand-gold" />
-                <span>{siteConfig.registrationNo} • Registered Non-Profit NGO</span>
-              </Badge>
+        <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+            className="space-y-6"
+          >
+            <Badge variant="gold" size="md">
+              <Globe className="w-3.5 h-3.5 text-brand-gold" />
+              <span>{siteConfig.registrationNo} • Registered Non-Profit NGO</span>
+            </Badge>
 
-              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight">
-                Empowering Lives <br />
-                <span className="text-gradient">Building Hope.</span>
-              </h1>
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight">
+              Empowering Lives <br />
+              <span className="text-gradient">Building Hope.</span>
+            </h1>
 
-              <p className="text-slate-300 text-base sm:text-lg max-w-2xl mx-auto lg:mx-0 font-normal leading-relaxed">
-                Yuvatejam Educational &amp; Social Service Trust is dedicated to fostering self-reliance, quality education, healthcare, and dignity for children, women, and underserved families across Andhra Pradesh.
-              </p>
+            <p className="text-slate-300 text-base sm:text-lg max-w-2xl mx-auto font-normal leading-relaxed">
+              Yuvatejam Educational &amp; Social Service Trust is dedicated to fostering self-reliance, quality education, healthcare, and dignity for children, women, and underserved families across Andhra Pradesh.
+            </p>
 
-              <div className="pt-2 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
-                <Link
-                  href="/donate-now/"
-                  className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 bg-gradient-to-r from-brand-red to-brand-darkRed hover:from-brand-darkRed hover:to-brand-red text-white font-bold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-0.5 text-base"
-                >
-                  <Heart className="w-5 h-5 fill-white" />
-                  <span>Donate &amp; Change a Life</span>
-                </Link>
+            <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-4">
+              <Link
+                href="/donate-now/"
+                className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 bg-gradient-to-r from-brand-red to-brand-darkRed hover:from-brand-darkRed hover:to-brand-red text-white font-bold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-0.5 text-base"
+              >
+                <Heart className="w-5 h-5 fill-white" />
+                <span>Donate &amp; Change a Life</span>
+              </Link>
 
-                <Link
-                  href="/about-us/"
-                  className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 bg-slate-800/80 hover:bg-slate-800 text-slate-200 font-semibold px-6 py-4 rounded-full border border-slate-700 hover:border-slate-600 transition-colors text-base"
-                >
-                  <span>Explore Our Work</span>
-                  <ArrowRight className="w-4 h-4 text-brand-red" />
-                </Link>
+              <Link
+                href="/about-us/"
+                className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 bg-slate-800/80 hover:bg-slate-800 text-slate-200 font-semibold px-6 py-4 rounded-full border border-slate-700 hover:border-slate-600 transition-colors text-base"
+              >
+                <span>Explore Our Work</span>
+                <ArrowRight className="w-4 h-4 text-brand-red" />
+              </Link>
+            </div>
+
+            {/* Key Trust Highlights */}
+            <div className="pt-6 flex flex-wrap items-center justify-center gap-6 border-t border-slate-800 text-xs text-slate-400">
+              <div className="flex items-center space-x-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
+                <span>Direct Community Support</span>
               </div>
-
-              {/* Key Trust Highlights */}
-              <div className="pt-6 grid grid-cols-2 sm:grid-cols-3 gap-4 border-t border-slate-800 text-xs text-slate-400">
-                <div className="flex items-center space-x-2">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-                  <span>Direct Community Support</span>
-                </div>
-                <div className="flex items-center space-x-2">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-                  <span>80G Tax Exemption</span>
-                </div>
-                <div className="flex items-center space-x-2">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-                  <span>Transparent Governance</span>
-                </div>
+              <div className="flex items-center space-x-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
+                <span>80G Tax Exemption</span>
               </div>
-            </motion.div>
-
-            {/* Right Quick Donation Widget */}
-            <motion.div
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.6, delay: 0.2 }}
-              className="lg:col-span-5 flex justify-center"
-            >
-              <DonationCard className="w-full max-w-md" />
-            </motion.div>
-          </div>
+              <div className="flex items-center space-x-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
+                <span>Transparent Governance</span>
+              </div>
+            </div>
+          </motion.div>
         </div>
       </section>
 
