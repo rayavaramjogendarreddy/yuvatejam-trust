@@ -8,6 +8,7 @@ import ContentRenderer from "@/components/content/ContentRenderer";
 import DonationCard from "@/components/content/DonationCard";
 import InfoCard from "@/components/content/InfoCard";
 import Timeline from "@/components/content/Timeline";
+import JsonLd from "@/components/seo/JsonLd";
 import { Badge } from "@/components/ui/Badge";
 import { ArrowRight, ChevronRight, FileText } from "lucide-react";
 
@@ -37,6 +38,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: cleanTitle,
     description: cleanDesc,
+    alternates: {
+      canonical: `/${slug}`,
+    },
   };
 }
 
@@ -76,8 +80,28 @@ export default async function DynamicPage({ params }: PageProps) {
     },
   ];
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yuvatejamtrust.org/",
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": displayTitle,
+        "item": `https://yuvatejamtrust.org/${slug}`,
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen pb-16 space-y-8 md:space-y-12">
+      <JsonLd data={breadcrumbSchema} />
       {/* Hero Title Banner */}
       <section className="bg-gradient-to-r from-slate-950 via-brand-navy to-slate-900 text-white py-12 md:py-16 border-b-4 border-brand-red">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-3">
