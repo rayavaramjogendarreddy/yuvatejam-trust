@@ -24,7 +24,6 @@ import {
 import { PublicHeader } from "@/components/public/PublicHeader";
 import { PublicFooter } from "@/components/public/PublicFooter";
 import { LiveAlertTicker } from "@/components/public/LiveAlertTicker";
-import { ImpactCalculator } from "@/components/public/ImpactCalculator";
 import { PhotoActivityReel } from "@/components/public/PhotoActivityReel";
 import { BeneficiaryStories } from "@/components/public/BeneficiaryStories";
 import { FloatingQuickDonate } from "@/components/public/FloatingQuickDonate";
@@ -360,10 +359,6 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* INTERACTIVE IMPACT CALCULATOR WIDGET */}
-        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <ImpactCalculator />
-        </section>
 
         {/* FOUNDER & CHAIRMAN MESSAGE */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
