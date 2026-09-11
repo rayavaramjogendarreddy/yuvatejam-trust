@@ -93,6 +93,33 @@ export default function HomePage() {
     { year: "2024+", tag: "Expansion", title: "Holistic Community Empowerment", desc: "Scaled daily Annadhanam food relief, women's tailoring workshops, and disaster relief response." },
   ];
 
+  const teamMembers = [
+    {
+      name: "Dr. SHAIK Karimulla",
+      role: "Founder & Chairman",
+      category: "Executive Leadership",
+      image: "https://ywrgxzulhmklohdsdsme.supabase.co/storage/v1/object/public/yuvatejam-media/images/Dr.SHAIK-karimulla-Founder-and-Chairman.jpg",
+      bio: "Visionary founder steering Yuvatejam Trust since 2012. Leads grassroots social strategy, program conception, and community outreach across Krishna District and Andhra Pradesh.",
+      expertise: "Social Welfare Policy & Rural Health",
+    },
+    {
+      name: "S. Abdul Baseed",
+      role: "Treasurer & Managing Trustee",
+      category: "Executive Leadership",
+      image: "https://ywrgxzulhmklohdsdsme.supabase.co/storage/v1/object/public/yuvatejam-media/images/S.Abdul-BaseedTreasurer-1014x1024.jpg",
+      bio: "Manages financial governance, 80G statutory tax compliance, budget disbursements, and annual audit integrity ensuring 100% accountability to donors.",
+      expertise: "Financial Governance & 80G Compliance",
+    },
+    {
+      name: "Executive Committee & Field Coordinators",
+      role: "Core Operations Body",
+      category: "Field Committee",
+      image: "https://ywrgxzulhmklohdsdsme.supabase.co/storage/v1/object/public/yuvatejam-media/images/Newteam.jpg",
+      bio: "Active committee members and field logistics coordinators driving weekly food distribution, volunteer management, and flood relief response in river basin villages.",
+      expertise: "Field Volunteer Logistics & Operations",
+    },
+  ];
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 flex flex-col selection:bg-red-600 selection:text-white">
       <PublicHeader />
@@ -439,6 +466,77 @@ export default function HomePage() {
                 </div>
                 <h4 className="font-bold text-base text-slate-900">{m.title}</h4>
                 <p className="text-slate-600 text-xs leading-relaxed">{m.desc}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* OUR LEADERSHIP & TEAM */}
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-10">
+          <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
+            <div className="space-y-2">
+              <span className="inline-flex items-center space-x-1.5 text-xs font-bold uppercase tracking-widest text-red-600">
+                <Users className="w-3.5 h-3.5" />
+                <span>Our Leadership &amp; Team</span>
+              </span>
+              <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
+                Meet the Guardians of Yuvatejam Trust
+              </h2>
+              <p className="text-slate-600 text-sm max-w-xl">
+                Guiding our grassroots mission with selfless dedication, statutory transparency, and unwavering focus on rural empowerment.
+              </p>
+            </div>
+            <Link
+              href="/team"
+              className="inline-flex items-center space-x-2 text-sm font-bold text-red-600 hover:text-red-700 transition-colors self-start md:self-auto bg-red-50 hover:bg-red-100 px-4 py-2.5 rounded-xl"
+            >
+              <span>View Full Leadership &amp; Committee</span>
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {teamMembers.map((member, idx) => (
+              <div
+                key={idx}
+                className="bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col group"
+              >
+                <div className="relative aspect-[4/4] sm:aspect-[4/5] w-full bg-slate-100 overflow-hidden">
+                  <Image
+                    src={member.image}
+                    alt={member.name}
+                    fill
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
+                  <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-md px-3 py-1 rounded-full text-[10px] font-bold text-red-600 uppercase shadow-sm">
+                    {member.category}
+                  </div>
+                </div>
+
+                <div className="p-6 flex-1 flex flex-col justify-between space-y-4">
+                  <div className="space-y-2">
+                    <div>
+                      <h3 className="text-lg font-bold text-slate-900 group-hover:text-red-600 transition-colors">
+                        {member.name}
+                      </h3>
+                      <p className="text-xs font-bold text-amber-600 uppercase tracking-wide">
+                        {member.role}
+                      </p>
+                    </div>
+
+                    <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
+                      {member.bio}
+                    </p>
+                  </div>
+
+                  <div className="pt-3 border-t border-slate-100 text-xs text-slate-500">
+                    <span className="block font-bold text-[10px] uppercase text-slate-400">
+                      Focus Area:
+                    </span>
+                    <span className="font-medium text-slate-700">{member.expertise}</span>
+                  </div>
+                </div>
               </div>
             ))}
           </div>
