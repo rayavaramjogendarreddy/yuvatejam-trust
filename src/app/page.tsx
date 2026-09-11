@@ -3,6 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { motion } from "framer-motion";
 import {
   Heart,
   ArrowRight,
@@ -17,16 +18,23 @@ import {
   MapPin,
   ExternalLink,
   Award,
+  ShieldCheck,
+  TrendingUp,
 } from "lucide-react";
 import { PublicHeader } from "@/components/public/PublicHeader";
 import { PublicFooter } from "@/components/public/PublicFooter";
+import { LiveAlertTicker } from "@/components/public/LiveAlertTicker";
+import { ImpactCalculator } from "@/components/public/ImpactCalculator";
+import { PhotoActivityReel } from "@/components/public/PhotoActivityReel";
+import { BeneficiaryStories } from "@/components/public/BeneficiaryStories";
+import { FloatingQuickDonate } from "@/components/public/FloatingQuickDonate";
 
 export default function HomePage() {
   const focusAreas = [
     {
       title: "Mission Education (Vidya Deevena)",
       category: "Education",
-      desc: "Free bridge courses, tutoring centers, and educational kits for rural children to prevent dropouts.",
+      desc: "Free bridge courses, evening tutoring centers, and educational study guides for rural students to prevent dropouts.",
       image: "https://ywrgxzulhmklohdsdsme.supabase.co/storage/v1/object/public/yuvatejam-media/images/13-2.jpg",
       badge: "Flagship",
       metric: "49,246+ Children Supported",
@@ -87,41 +95,67 @@ export default function HomePage() {
   ];
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900 flex flex-col">
+    <div className="min-h-screen bg-slate-50 text-slate-900 flex flex-col selection:bg-red-600 selection:text-white">
       <PublicHeader />
+      <LiveAlertTicker />
 
-      <main className="flex-grow space-y-16 md:space-y-24 pb-16">
+      <main className="flex-grow space-y-16 md:space-y-24 pb-20">
         {/* HERO SECTION */}
-        <section className="relative bg-slate-950 text-white pt-16 pb-20 md:pt-24 md:pb-28 overflow-hidden border-b-4 border-red-600">
+        <section className="relative bg-slate-950 text-white pt-16 pb-20 md:pt-28 md:pb-32 overflow-hidden border-b-4 border-red-600">
+          {/* Background image with overlay */}
           <div
-            className="absolute inset-0 z-0 opacity-25 bg-cover bg-center"
+            className="absolute inset-0 z-0 opacity-20 bg-cover bg-center"
             style={{
               backgroundImage: "url('https://ywrgxzulhmklohdsdsme.supabase.co/storage/v1/object/public/yuvatejam-media/images/banner-1024x515.jpg')",
             }}
           />
           <div className="absolute inset-0 z-0 bg-gradient-to-r from-slate-950 via-slate-950/95 to-slate-900/90" />
 
-          <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
-            <span className="inline-flex items-center space-x-1.5 font-bold rounded-full tracking-wider uppercase px-4 py-1.5 text-xs bg-amber-500/15 text-amber-400 border border-amber-500/30">
-              <Sparkles className="w-3.5 h-3.5" />
-              <span>Regd. No. 124/2012 • Registered Non-Profit NGO</span>
-            </span>
+          {/* Animated decorative glow blobs */}
+          <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-red-600/10 rounded-full blur-3xl pointer-events-none" />
+          <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-amber-500/10 rounded-full blur-3xl pointer-events-none" />
 
-            <h1 className="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight leading-tight">
+          <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
+            <motion.div
+              initial={{ opacity: 0, y: -10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5 }}
+              className="inline-flex items-center space-x-2 font-bold rounded-full tracking-wider uppercase px-4 py-1.5 text-xs bg-amber-500/15 text-amber-400 border border-amber-500/30 shadow-sm"
+            >
+              <Sparkles className="w-3.5 h-3.5" />
+              <span>Regd. No. 124/2012 • 13+ Years of Grassroots Service</span>
+            </motion.div>
+
+            <motion.h1
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.1 }}
+              className="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight leading-tight"
+            >
               Empowering Lives, <br />
               <span className="bg-gradient-to-r from-red-500 via-amber-400 to-amber-200 bg-clip-text text-transparent">
                 Building Resilient Communities.
               </span>
-            </h1>
+            </motion.h1>
 
-            <p className="text-slate-300 text-base sm:text-lg max-w-2xl mx-auto font-normal leading-relaxed">
+            <motion.p
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              className="text-slate-300 text-base sm:text-lg max-w-2xl mx-auto font-normal leading-relaxed"
+            >
               Yuvatejam Educational &amp; Social Service Trust is dedicated to fostering quality education, health clinics, hunger relief, and self-reliance for children, women, and underserved rural families in Andhra Pradesh.
-            </p>
+            </motion.p>
 
-            <div className="pt-3 flex flex-col sm:flex-row items-center justify-center gap-4">
+            <motion.div
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.3 }}
+              className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-4"
+            >
               <Link
                 href="/donate-now"
-                className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-0.5 text-base"
+                className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-black px-8 py-4 rounded-full shadow-lg hover:shadow-red-600/30 transition-all transform hover:-translate-y-0.5 text-base"
               >
                 <Heart className="w-5 h-5 fill-white" />
                 <span>Donate &amp; Change a Life</span>
@@ -133,9 +167,14 @@ export default function HomePage() {
                 <span>Explore Our Programs</span>
                 <ArrowRight className="w-4 h-4 text-red-400" />
               </Link>
-            </div>
+            </motion.div>
 
-            <div className="pt-8 flex flex-wrap items-center justify-center gap-6 border-t border-slate-800 text-xs text-slate-400">
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.8, delay: 0.4 }}
+              className="pt-8 flex flex-wrap items-center justify-center gap-6 border-t border-slate-800/80 text-xs text-slate-400"
+            >
               <div className="flex items-center space-x-2">
                 <CheckCircle2 className="w-4 h-4 text-emerald-400" />
                 <span>Direct Community Support</span>
@@ -148,7 +187,7 @@ export default function HomePage() {
                 <CheckCircle2 className="w-4 h-4 text-emerald-400" />
                 <span>Transparent Financial Audits</span>
               </div>
-            </div>
+            </motion.div>
           </div>
         </section>
 
@@ -190,17 +229,20 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* LIVE PHOTO REEL MARQUEE */}
+        <PhotoActivityReel />
+
         {/* FLAGSHIP INITIATIVE SPOTLIGHT */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-gradient-to-br from-slate-900 to-slate-950 rounded-3xl p-8 md:p-12 text-white border border-slate-800 shadow-2xl">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 md:gap-12 items-center">
-              <div className="lg:col-span-6 relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3] border border-slate-700">
+              <div className="lg:col-span-6 relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3] border border-slate-700 group">
                 <Image
                   src="https://ywrgxzulhmklohdsdsme.supabase.co/storage/v1/object/public/yuvatejam-media/images/13-2.jpg"
                   alt="Mission Education - Student Receiving Study Materials"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
-                  className="object-cover"
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute top-3 left-3 bg-red-600 text-white text-[11px] font-bold px-3 py-1 rounded-full uppercase tracking-wider shadow">
                   Flagship Program
@@ -235,7 +277,7 @@ export default function HomePage() {
 
                 <div className="pt-3 flex flex-wrap items-center gap-4">
                   <Link
-                    href="/donate-now"
+                    href="/donate-now?cause=Mission%20Education%20%E2%80%94%20Vidya%20Deevena"
                     className="inline-flex items-center space-x-2 bg-red-600 hover:bg-red-500 text-white font-bold px-6 py-3 rounded-full text-xs transition-colors shadow-lg"
                   >
                     <Heart className="w-4 h-4 fill-white" />
@@ -318,6 +360,11 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* INTERACTIVE IMPACT CALCULATOR WIDGET */}
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <ImpactCalculator />
+        </section>
+
         {/* FOUNDER & CHAIRMAN MESSAGE */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-amber-500/10 rounded-3xl border border-amber-500/20 p-8 md:p-12">
@@ -365,6 +412,11 @@ export default function HomePage() {
               </div>
             </div>
           </div>
+        </section>
+
+        {/* BENEFICIARY STORIES & TESTIMONIALS */}
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <BeneficiaryStories />
         </section>
 
         {/* MILESTONES & JOURNEY */}
@@ -433,6 +485,7 @@ export default function HomePage() {
         </section>
       </main>
 
+      <FloatingQuickDonate />
       <PublicFooter />
     </div>
   );
